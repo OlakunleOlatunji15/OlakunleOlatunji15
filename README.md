@@ -24,13 +24,14 @@ I'm **Olakunle Olatunji**, a **Data Analyst** passionate about turning raw data 
 - **Tools**: Power BI, Excel
 - **Description**:  This analysis aims to help the bank understand its customer churn rates and identify factors contributing to customer churn.
 - ![Screenshot (503)](https://github.com/user-attachments/assets/c448f44d-c584-40ca-b590-667b56e0a0b8)
+- https://github.com/OlakunleOlatunji15/Churn-Analysis-Project
 
 
 ### 2. Exploratory Data Analysis and Data Cleaning on Layoff Trends
 - **Tools**: MySQL
 - **Description**:Data Cleaning and Exploratory Analysis  tracking layoff trends across various companies, industries, and countries
 - ![image](https://github.com/user-attachments/assets/af68c1b3-a172-452a-8a62-9f6671fa91e8)
-
+  https://github.com/OlakunleOlatunji15/Layoffs-Insights-Data-Cleaning-and-Exploration
 
 
 ---
@@ -38,11 +39,13 @@ I'm **Olakunle Olatunji**, a **Data Analyst** passionate about turning raw data 
 ## 📫 How to Reach Me
 
 - LinkedIn: www.linkedin.com/in/olakunle-olatunji-b16a4722a
-- Email: Kunvad15@Gmail.com![alexas_fotos-pnGjbJEmU3o-unsplash](https://github.com/user-attachments/assets/d7ddaeff-26c5-49a1-8b27-126755f131d7)
+- Email: Kunvad15@Gmail.com
 
 ## Accomplishments
 - Completed Cousera Data Analytics Courses 
 -  Analyzed customer churn data to identify key drivers, addressing retention issues among high-value customers and improving customer satisfaction.
+
+-  - ![alexas_fotos-pnGjbJEmU3o-unsplash](https://github.com/user-attachments/assets/d7ddaeff-26c5-49a1-8b27-126755f131d7)
 
 ---
 
