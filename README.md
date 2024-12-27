@@ -1,6 +1,7 @@
 # Hi there! 👋 Welcome to my GitHub Profile
 
-![Header Image](https://via.placeholder.com/800x200.png?text=Welcome+to+my+GitHub+Profile) <!-- Replace with your own image link -->
+![IMG-7188](https://github.com/user-attachments/assets/5d9365d4-e42a-4f24-b7ab-e670893d4b59)
+
 
 ## 🚀 About Me
 
@@ -37,9 +38,9 @@ I'm **Olakunle Olatunji**, a **Data Analyst** passionate about turning raw data 
 ## 📫 How to Reach Me
 
 - LinkedIn: www.linkedin.com/in/olakunle-olatunji-b16a4722a
-- Portfolio: [Your Portfolio](https://[YOUR LINK])
 - Email: Kunvad15@Gmail.com![alexas_fotos-pnGjbJEmU3o-unsplash](https://github.com/user-attachments/assets/d7ddaeff-26c5-49a1-8b27-126755f131d7)
 
+## Accomplishments
 - Completed Cousera Data Analytics Courses 
 -  Analyzed customer churn data to identify key drivers, addressing retention issues among high-value customers and improving customer satisfaction.
 
