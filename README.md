@@ -38,8 +38,7 @@ I'm **Olakunle Olatunji**, a **Data Analyst** passionate about turning raw data 
 
 ## 📫 How to Reach Me
 
-- LinkedIn: www.linkedin.com/in/olakunle-olatunji-b16a4722a
-- Email: Kunvad15@Gmail.com
+- Email: tenvad17@gmail.com  /Kunvad15@gmail.com
 
 ## Accomplishments
 - Completed Cousera Data Analytics Courses 
